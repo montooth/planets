@@ -1,3 +1,4 @@
 Cold and dry, but everything is my favorite color
 Now adding an additional note
 Kristi really not understanding git right now
+This line is added to partner A's copy: understanding a bit more now
